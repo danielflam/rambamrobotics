@@ -1,0 +1,1660 @@
+Archive member included because of file (symbol)
+
+C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o)
+                              ./src/arduinoMain.o (SerialCommand::setDefaultHandler(void (*)(char const*)))
+C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+                              ./src/arduinoMain.o (AF_DCMotor::setSpeed(unsigned char))
+C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+                              ./src/arduinoMain.o (Serial)
+C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o) (Print::write(unsigned char const*, unsigned int))
+C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WMath.o)
+                              ./src/arduinoMain.o (random(long, long))
+C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o) (String::operator[](unsigned int) const)
+C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(main.o)
+                              c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o (main)
+C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring.o)
+                              ./src/arduinoMain.o (millis)
+C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring_digital.o)
+                              ./src/arduinoMain.o (pinMode)
+C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(malloc.o)
+                              ./src/main.o (malloc)
+C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(realloc.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o) (realloc)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mulsi3.o)
+                              C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o) (__mulsi3)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodsi4.o)
+                              C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o) (__udivmodsi4)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodsi4.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WMath.o) (__divmodsi4)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+                              c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o (exit)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+                              ./src/arduinoMain.o (__do_copy_data)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+                              ./src/arduinoMain.o (__do_clear_bss)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o)
+                              ./src/arduinoMain.o (__do_global_ctors)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fixunssfsi.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o) (__fixunssfsi)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o) (__subsf3)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mul_sf.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o) (__mulsf3)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_div_sf.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o) (__divsf3)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_gt_sf.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o) (__gtsf2)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ge_sf.o)
+                              c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fixunssfsi.o) (__gesf2)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_lt_sf.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o) (__ltsf2)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_le_sf.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o) (__lesf2)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_unord_sf.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o) (__unordsf2)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_si_to_sf.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o) (__floatsisf)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_sf_to_si.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o) (__fixsfsi)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_thenan_sf.o)
+                              c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o) (__thenan_sf)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_usi_to_sf.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o) (__floatunsisf)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_prologue.o)
+                              c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_epilogue.o)
+                              c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_tablejump.o)
+                              c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o) (__tablejump__)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clzsi2.o)
+                              c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_si_to_sf.o) (__clzsi2)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_pack_sf.o)
+                              c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o) (__pack_f)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_unpack_sf.o)
+                              c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o) (__unpack_f)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                              c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clz.o)
+                              c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clzsi2.o) (__clz_tab)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(random.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WMath.o) (random)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(atol.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o) (atol)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isprint.o)
+                              C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o) (isprint)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isspace.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o) (isspace)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(tolower.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o) (tolower)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(toupper.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o) (toupper)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(memcpy.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o) (memcpy)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(memmove.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o) (memmove)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strchr.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o) (strchr)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strcmp.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o) (strcmp)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strcpy.o)
+                              C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o) (strcpy)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strncmp.o)
+                              C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o) (strncmp)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strncpy.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o) (strncpy)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strrchr.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o) (strrchr)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strstr.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o) (strstr)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(itoa.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o) (itoa)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o) (ltoa)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(mulsi10.o)
+                              c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(atol.o) (__mulsi_const_10)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ultoa.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o) (ultoa)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(utoa.o)
+                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o) (utoa)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+                              c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isprint.o) (__ctype_isfalse)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strrev.o)
+                              c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(itoa.o) (strrev)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodhi4.o)
+                              c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(itoa.o) (__udivmodhi4)
+
+Allocating common symbols
+Common symbol       size              file
+
+__brkval            0x2               C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(malloc.o)
+__flp               0x2               C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(malloc.o)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+ .text          0x00000000        0x0 ./src/arduinoMain.o
+ .bss           0x00000000        0x0 ./src/arduinoMain.o
+ .text          0x00000000        0x0 ./src/main.o
+ .data          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .text.__cxa_pure_virtual
+                0x00000000        0x0 ./src/main.o
+ .text.__cxa_guard_acquire
+                0x00000000        0x0 ./src/main.o
+ .text.__cxa_guard_release
+                0x00000000        0x0 ./src/main.o
+ .text.__cxa_guard_abort
+                0x00000000        0x0 ./src/main.o
+ .text._ZdaPv   0x00000000        0x0 ./src/main.o
+ .text._ZdlPv   0x00000000        0x0 ./src/main.o
+ .text._Znaj    0x00000000        0x0 ./src/main.o
+ .text._Znwj    0x00000000        0x0 ./src/main.o
+ .text          0x00000000        0x0 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o)
+ .bss           0x00000000        0x0 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o)
+ .text._ZN13SerialCommand11clearBufferEv
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o)
+ .text._ZN13SerialCommand4nextEv
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o)
+ .text._ZN13SerialCommandC2EP21SerialCommandCallbackc
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o)
+ .text          0x00000000        0x0 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+ .data          0x00000000        0x0 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+ .bss           0x00000000        0x0 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+ .text._ZN17AFMotorControllerC2Ev
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+ .text._ZN17AFMotorControllerC1Ev
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+ .text._ZN10AF_Stepper8setSpeedEj
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+ .text._ZN10AF_Stepper7onestepEhh
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+ .text._ZN10AF_Stepper4stepEjhh
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+ .text._ZN10AF_Stepper7releaseEv
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+ .text._ZN10AF_DCMotorC2Ehh
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+ .text._ZN10AF_StepperC1Ejh
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+ .text._ZN10AF_StepperC2Ejh
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+ .data.microstepcurve
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+ .text          0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+ .data          0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+ .bss           0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+ .text._ZN14HardwareSerialC2EP11ring_bufferS1_PVhS3_S3_S3_S3_S3_hhhhh
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+ .text._ZN14HardwareSerialC1EP11ring_bufferS1_PVhS3_S3_S3_S3_S3_hhhhh
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial5beginEmh
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial3endEv
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+ .text._ZN14HardwareSerialcvbEv
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+ .rodata._ZTV6Stream
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+ .text          0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+ .data          0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+ .bss           0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+ .text._ZN5Print5printEPK19__FlashStringHelper
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+ .text._ZN5Print5printEc
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+ .text._ZN5Print5printERK9Printable
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+ .text._ZN5Print7printlnEPK19__FlashStringHelper
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+ .text._ZN5Print7printlnEc
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+ .text._ZN5Print7printlnERK9Printable
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+ .text._ZN5Print5printEmi
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+ .text._ZN5Print7printlnEmi
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+ .text._ZN5Print5printEji
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+ .text._ZN5Print7printlnEji
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+ .text._ZN5Print5printEhi
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+ .text._ZN5Print7printlnEhi
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+ .text._ZN5Print7printlnEli
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+ .text._ZN5Print5printEii
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+ .text._ZN5Print10printFloatEdh
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+ .text._ZN5Print5printEdi
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+ .text._ZN5Print7printlnEdi
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+ .text._ZN5Print5printERK6String
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+ .text._ZN5Print7printlnERK6String
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+ .rodata._ZTV5Print
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+ .text          0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WMath.o)
+ .data          0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WMath.o)
+ .bss           0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WMath.o)
+ .text._Z3maplllll
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WMath.o)
+ .text._Z8makeWordj
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WMath.o)
+ .text._Z8makeWordhh
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WMath.o)
+ .text._Z10randomSeedj
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WMath.o)
+ .text          0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .data          0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .bss           0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZNK6String6charAtEj
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6String9setCharAtEjc
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6StringixEj
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZNK6StringixEj
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6String7replaceEcc
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZNK6String5toIntEv
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6String4trimEv
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6String11toUpperCaseEv
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6String11toLowerCaseEv
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZNK6String16equalsIgnoreCaseERKS_
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZNK6String11lastIndexOfERKS_j
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZNK6String11lastIndexOfERKS_
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZNK6String7indexOfERKS_j
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZNK6String7indexOfERKS_
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZNK6String11lastIndexOfEcj
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZNK6String11lastIndexOfEc
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZNK6String7indexOfEcj
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZNK6String7indexOfEc
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZNK6String8getBytesEPhjj
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZNK6String8endsWithERKS_
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZNK6String6equalsEPKc
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZNK6String9compareToERKS_
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZNK6StringgeERKS_
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZNK6StringleERKS_
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZNK6StringgtERKS_
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZNK6StringltERKS_
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZNK6String6equalsERKS_
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZNK6String10startsWithERKS_j
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZNK6String10startsWithERKS_
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6String12changeBufferEj
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6String7replaceERKS_S1_
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6String7reserveEj
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6String6concatEPKcj
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6String6concatEm
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6String6concatEl
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6String6concatEj
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6String6concatEi
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6String6concatEh
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6String6concatEc
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6String6concatEPKc
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6String6concatERKS_
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6String10invalidateEv
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZplRK15StringSumHelperm
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZplRK15StringSumHelperl
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZplRK15StringSumHelperj
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZplRK15StringSumHelperi
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZplRK15StringSumHelperh
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZplRK15StringSumHelperc
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZplRK15StringSumHelperPKc
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZplRK15StringSumHelperRK6String
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6String4copyEPKcj
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6StringC1EPKc
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6StringC2EPKc
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6StringaSEPKc
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6StringC1Emh
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6StringC2Emh
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6StringC1Elh
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6StringC2Elh
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6StringC1Ejh
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6StringC2Ejh
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6StringC1Eih
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6StringC2Eih
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6StringC1Ehh
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6StringC2Ehh
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6StringC1Ec
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6StringC2Ec
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZNK6String9substringEjj
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZNK6String9substringEj
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6StringaSERKS_
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6StringC1ERKS_
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6StringC2ERKS_
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6StringD1Ev
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text._ZN6StringD2Ev
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .bss._ZZN6StringixEjE19dummy_writable_char
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+ .text          0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(main.o)
+ .data          0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(main.o)
+ .bss           0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(main.o)
+ .text          0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring.o)
+ .data          0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring.o)
+ .bss           0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring.o)
+ .text.micros   0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring.o)
+ .text          0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring_digital.o)
+ .data          0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring_digital.o)
+ .bss           0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring_digital.o)
+ .text.digitalRead
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring_digital.o)
+ .text          0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(malloc.o)
+ .data          0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(malloc.o)
+ .bss           0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(malloc.o)
+ .text.avr-libc
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(malloc.o)
+ .data.__malloc_margin
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(malloc.o)
+ .data.__malloc_heap_start
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(malloc.o)
+ .data.__malloc_heap_end
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(malloc.o)
+ COMMON         0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(malloc.o)
+ .text          0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(realloc.o)
+ .data          0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(realloc.o)
+ .bss           0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(realloc.o)
+ .text.avr-libc
+                0x00000000        0x0 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(realloc.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mulsi3.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mulsi3.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fixunssfsi.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fixunssfsi.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mul_sf.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mul_sf.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mul_sf.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_div_sf.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_div_sf.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_div_sf.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_gt_sf.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_gt_sf.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_gt_sf.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ge_sf.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ge_sf.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ge_sf.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_lt_sf.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_lt_sf.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_lt_sf.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_le_sf.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_le_sf.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_le_sf.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_unord_sf.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_unord_sf.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_unord_sf.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_si_to_sf.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_si_to_sf.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_si_to_sf.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_sf_to_si.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_sf_to_si.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_sf_to_si.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_thenan_sf.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_thenan_sf.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_thenan_sf.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_usi_to_sf.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_usi_to_sf.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_usi_to_sf.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_prologue.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_prologue.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_prologue.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_epilogue.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_epilogue.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_epilogue.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_tablejump.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_tablejump.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_tablejump.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clzsi2.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clzsi2.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clzsi2.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_pack_sf.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_pack_sf.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_pack_sf.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_unpack_sf.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_unpack_sf.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_unpack_sf.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clz.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clz.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clz.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(random.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(atol.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(atol.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(atol.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isprint.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isprint.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isprint.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isspace.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isspace.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isspace.o)
+ .text.ctype    0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isspace.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(tolower.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(tolower.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(tolower.o)
+ .text.ctype    0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(tolower.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(toupper.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(toupper.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(toupper.o)
+ .text.ctype    0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(toupper.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(memmove.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(memmove.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(memmove.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strchr.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strchr.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strchr.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strcmp.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strcmp.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strcmp.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strcpy.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strcpy.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strncmp.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strncmp.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strncpy.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strncpy.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strncpy.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strrchr.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strrchr.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strrchr.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strstr.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strstr.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strstr.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ltoa.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ltoa.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ltoa.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(mulsi10.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(mulsi10.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(mulsi10.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ultoa.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ultoa.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ultoa.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(utoa.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(utoa.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(utoa.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strrev.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strrev.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strrev.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodhi4.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+LOAD ./src/arduinoMain.o
+LOAD ./src/main.o
+LOAD C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a
+LOAD C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a
+LOAD c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a
+LOAD c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libm.a
+LOAD c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a
+LOAD c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a
+LOAD c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x1744
+ *(.vectors)
+ .vectors       0x00000000       0x68 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+ .progmem.data  0x00000068       0x5a C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring_digital.o)
+                0x00000068                port_to_mode_PGM
+                0x00000086                digital_pin_to_port_PGM
+                0x0000009a                digital_pin_to_bit_mask_PGM
+                0x00000072                port_to_output_PGM
+                0x0000007c                port_to_input_PGM
+                0x000000ae                digital_pin_to_timer_PGM
+                0x000000c2                . = ALIGN (0x2)
+                0x000000c2                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000c2        0x0 linker stubs
+ *(.trampolines*)
+                0x000000c2                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000c2                __ctors_start = .
+ *(.ctors)
+ .ctors         0x000000c2        0x2 ./src/arduinoMain.o
+ .ctors         0x000000c4        0x2 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+ .ctors         0x000000c6        0x2 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+                0x000000c8                __ctors_end = .
+                0x000000c8                __dtors_start = .
+ *(.dtors)
+                0x000000c8                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000c8        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+                0x000000c8                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000c8        0xc c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000d4       0x16 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+                0x000000d4                __do_copy_data
+ .init4         0x000000ea       0x10 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+                0x000000ea                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x000000fa       0x16 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o)
+                0x000000fa                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000110        0x8 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+ *(.init9)
+ *(.text)
+ .text          0x00000118        0x2 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+                0x00000118                __vector_22
+                0x00000118                __vector_1
+                0x00000118                __vector_24
+                0x00000118                __vector_12
+                0x00000118                __bad_interrupt
+                0x00000118                __vector_6
+                0x00000118                __vector_3
+                0x00000118                __vector_23
+                0x00000118                __vector_25
+                0x00000118                __vector_11
+                0x00000118                __vector_13
+                0x00000118                __vector_17
+                0x00000118                __vector_7
+                0x00000118                __vector_5
+                0x00000118                __vector_4
+                0x00000118                __vector_9
+                0x00000118                __vector_2
+                0x00000118                __vector_21
+                0x00000118                __vector_15
+                0x00000118                __vector_8
+                0x00000118                __vector_14
+                0x00000118                __vector_10
+                0x00000118                __vector_20
+ .text          0x0000011a       0xba c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(random.o)
+                0x000001bc                random
+                0x000001ba                random_r
+                0x000001c2                srandom
+ .text          0x000001d4        0xe c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strcpy.o)
+                0x000001d4                strcpy
+ .text          0x000001e2       0x1c c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strncmp.o)
+                0x000001e2                strncmp
+                0x000001fe                . = ALIGN (0x2)
+ *(.text.*)
+ .text._GLOBAL__I_motors
+                0x000001fe       0xac ./src/arduinoMain.o
+ .text.loop     0x000002aa       0x1c ./src/arduinoMain.o
+                0x000002aa                loop
+ .text.setup    0x000002c6       0x5c ./src/arduinoMain.o
+                0x000002c6                setup
+ .text._Z10commandOffv
+                0x00000322       0x12 ./src/arduinoMain.o
+                0x00000322                commandOff()
+ .text._Z9commandOnv
+                0x00000334       0x12 ./src/arduinoMain.o
+                0x00000334                commandOn()
+ .text._Z17commandTestRandomv
+                0x00000346       0x5a ./src/arduinoMain.o
+                0x00000346                commandTestRandom()
+ .text._Z11commandTestv
+                0x000003a0       0x66 ./src/arduinoMain.o
+                0x000003a0                commandTest()
+ .text._Z14commandDefaultPKc
+                0x00000406       0x2e ./src/arduinoMain.o
+                0x00000406                commandDefault(char const*)
+ .text._Z12commandPowerv
+                0x00000434       0x62 ./src/arduinoMain.o
+                0x00000434                commandPower()
+ .text._ZN13SerialCommand16processNumberendEPcS0_
+                0x00000496       0x8e C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o)
+                0x00000496                SerialCommand::processNumberend(char*, char*)
+ .text._ZN13SerialCommand17onCmdlineCompleteEPcS0_
+                0x00000524       0x38 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o)
+                0x00000524                SerialCommand::onCmdlineComplete(char*, char*)
+ .text._ZN13SerialCommand17setDefaultHandlerEPFvPKcE
+                0x0000055c        0x8 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o)
+                0x0000055c                SerialCommand::setDefaultHandler(void (*)(char const*))
+ .text._ZN13SerialCommand8onCmdEndEPcS0_
+                0x00000564       0x68 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o)
+                0x00000564                SerialCommand::onCmdEnd(char*, char*)
+ .text._ZN13SerialCommand11parseBufferEv
+                0x000005cc      0x2f2 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o)
+                0x000005cc                SerialCommand::parseBuffer()
+ .text._ZN13SerialCommand6updateEc
+                0x000008be       0x6a C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o)
+                0x000008be                SerialCommand::update(char)
+ .text._ZN13SerialCommandC1EP21SerialCommandCallbackc
+                0x00000928       0x52 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o)
+                0x00000928                SerialCommand::SerialCommand(SerialCommandCallback*, char)
+ .text._ZN10AF_DCMotor8setSpeedEh
+                0x0000097a       0x30 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+                0x0000097a                AF_DCMotor::setSpeed(unsigned char)
+ .text._GLOBAL__I_microstepcurve
+                0x000009aa        0x2 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+ .text._Z8initPWM1h
+                0x000009ac       0x1a C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+                0x000009ac                initPWM1(unsigned char)
+ .text._Z8initPWM2h
+                0x000009c6       0x1a C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+                0x000009c6                initPWM2(unsigned char)
+ .text._ZN17AFMotorController8latch_txEv
+                0x000009e0       0x58 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+                0x000009e0                AFMotorController::latch_tx()
+ .text._ZN10AF_DCMotor3runEh
+                0x00000a38       0xc8 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+                0x00000a38                AF_DCMotor::run(unsigned char)
+ .text._ZN17AFMotorController6enableEv
+                0x00000b00       0x32 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+                0x00000b00                AFMotorController::enable()
+ .text._ZN10AF_DCMotorC1Ehh
+                0x00000b32       0x9a C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+                0x00000b32                AF_DCMotor::AF_DCMotor(unsigned char, unsigned char)
+ .text._Z11serialEventv
+                0x00000bcc        0x2 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+                0x00000bcc                serialEvent()
+ .text.__vector_18
+                0x00000bce       0x76 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+                0x00000bce                __vector_18
+ .text._Z14serialEventRunv
+                0x00000c44       0x24 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+                0x00000c44                serialEventRun()
+ .text.__vector_19
+                0x00000c68       0x76 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+                0x00000c68                __vector_19
+ .text._ZN14HardwareSerial5beginEm
+                0x00000cde      0x10c C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+                0x00000cde                HardwareSerial::begin(unsigned long)
+ .text._ZN14HardwareSerial9availableEv
+                0x00000dea       0x22 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+                0x00000dea                HardwareSerial::available()
+ .text._ZN14HardwareSerial4peekEv
+                0x00000e0c       0x40 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+                0x00000e0c                HardwareSerial::peek()
+ .text._ZN14HardwareSerial4readEv
+                0x00000e4c       0x52 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+                0x00000e4c                HardwareSerial::read()
+ .text._ZN14HardwareSerial5flushEv
+                0x00000e9e       0x20 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+                0x00000e9e                HardwareSerial::flush()
+ .text._ZN14HardwareSerial5writeEh
+                0x00000ebe       0x80 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+                0x00000ebe                HardwareSerial::write(unsigned char)
+ .text._GLOBAL__I_rx_buffer
+                0x00000f3e       0xac C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+ .text._ZN5Print5writeEPKhj
+                0x00000fea       0x54 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+                0x00000fea                Print::write(unsigned char const*, unsigned int)
+ .text._ZN5Print7printlnEv
+                0x0000103e       0x40 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+                0x0000103e                Print::println()
+ .text._ZN5Print5writeEPKc
+                0x0000107e       0x38 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+                0x0000107e                Print::write(char const*)
+ .text._ZN5Print11printNumberEmh
+                0x000010b6       0xc2 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+                0x000010b6                Print::printNumber(unsigned long, unsigned char)
+ .text._ZN5Print5printEli
+                0x00001178       0x7c C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+                0x00001178                Print::print(long, int)
+ .text._ZN5Print7printlnEii
+                0x000011f4       0x3a C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+                0x000011f4                Print::println(int, int)
+ .text._ZN5Print5printEPKc
+                0x0000122e        0x4 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+                0x0000122e                Print::print(char const*)
+ .text._ZN5Print7printlnEPKc
+                0x00001232       0x22 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+                0x00001232                Print::println(char const*)
+ .text._Z6randoml
+                0x00001254       0x42 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WMath.o)
+                0x00001254                random(long)
+ .text._Z6randomll
+                0x00001296       0x3a C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WMath.o)
+                0x00001296                random(long, long)
+ .text.main     0x000012d0       0x1a C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(main.o)
+                0x000012d0                main
+ .text.__vector_16
+                0x000012ea       0x90 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring.o)
+                0x000012ea                __vector_16
+ .text.millis   0x0000137a       0x1c C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring.o)
+                0x0000137a                millis
+ .text.delay    0x00001396       0xb2 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring.o)
+                0x00001396                delay
+ .text.delayMicroseconds
+                0x00001448       0x14 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring.o)
+                0x00001448                delayMicroseconds
+ .text.init     0x0000145c       0x76 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring.o)
+                0x0000145c                init
+ .text.pinMode  0x000014d2       0x7e C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring_digital.o)
+                0x000014d2                pinMode
+ .text.digitalWrite
+                0x00001550       0xa8 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring_digital.o)
+                0x00001550                digitalWrite
+ .text.libgcc   0x000015f8       0x3e c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mulsi3.o)
+                0x000015f8                __mulsi3
+ .text.libgcc   0x00001636       0x44 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodsi4.o)
+                0x00001636                __udivmodsi4
+ .text.libgcc   0x0000167a       0x36 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodsi4.o)
+                0x0000167a                __divmodsi4
+ .text.libgcc   0x000016b0       0x38 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_prologue.o)
+                0x000016b0                __prologue_saves__
+ .text.libgcc   0x000016e8       0x36 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_epilogue.o)
+                0x000016e8                __epilogue_restores__
+ .text.libgcc   0x0000171e        0xc c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_tablejump.o)
+                0x00001722                __tablejump__
+                0x0000171e                __tablejump2__
+ .text.ctype    0x0000172a       0x10 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isprint.o)
+                0x0000172a                isgraph
+                0x0000172e                isprint
+ .text.ctype    0x0000173a        0x6 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+                0x0000173e                __ctype_istrue
+                0x0000173a                __ctype_isfalse
+                0x00001740                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00001740        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+                0x00001740                exit
+                0x00001740                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00001740        0x4 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00001744                _etext = .
+
+.data           0x00800100       0x98 load address 0x00001744
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100       0x6a ./src/arduinoMain.o
+ .data          0x0080016a        0x2 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o)
+ .data          0x0080016c        0x4 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(random.o)
+ *(.data*)
+ .data.commandList
+                0x00800170       0x18 ./src/arduinoMain.o
+                0x00800170                commandList
+ *(.rodata)
+ *(.rodata*)
+ .rodata._ZTV14HardwareSerial
+                0x00800188       0x10 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+                0x00800188                vtable for HardwareSerial
+ *(.gnu.linkonce.d*)
+                0x00800198                . = ALIGN (0x2)
+                0x00800198                _edata = .
+                0x00800198                PROVIDE (__data_end, .)
+
+.bss            0x00800198      0x135
+                0x00800198                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.motors    0x00800198       0x1c ./src/arduinoMain.o
+                0x00800198                motors
+ .bss.commandProcessor
+                0x008001b4       0x64 ./src/arduinoMain.o
+                0x008001b4                commandProcessor
+ .bss._ZL2MC    0x00800218        0x1 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+ .bss._ZL11latch_state
+                0x00800219        0x1 C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+ .bss.rx_buffer
+                0x0080021a       0x44 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+                0x0080021a                rx_buffer
+ .bss.tx_buffer
+                0x0080025e       0x44 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+                0x0080025e                tx_buffer
+ .bss.Serial    0x008002a2       0x22 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+                0x008002a2                Serial
+ .bss.timer0_overflow_count
+                0x008002c4        0x4 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring.o)
+                0x008002c4                timer0_overflow_count
+ .bss.timer0_millis
+                0x008002c8        0x4 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring.o)
+                0x008002c8                timer0_millis
+ .bss.timer0_fract
+                0x008002cc        0x1 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring.o)
+ *(COMMON)
+                0x008002cd                PROVIDE (__bss_end, .)
+                0x00001744                __data_load_start = LOADADDR (.data)
+                0x000017dc                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008002cd        0x0
+                0x008002cd                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008002cd                PROVIDE (__noinit_end, .)
+                0x008002cd                _end = .
+                0x008002cd                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(Motor_driver.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+AFMotorController::AFMotorController()            C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+AFMotorController::AFMotorController()            C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+AFMotorController::enable()                       C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+AFMotorController::latch_tx()                     C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+AF_DCMotor::AF_DCMotor(unsigned char, unsigned char) C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+                                                  ./src/arduinoMain.o
+AF_DCMotor::AF_DCMotor(unsigned char, unsigned char) C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+AF_DCMotor::run(unsigned char)                    C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+                                                  ./src/arduinoMain.o
+AF_DCMotor::setSpeed(unsigned char)               C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+                                                  ./src/arduinoMain.o
+AF_Stepper::AF_Stepper(unsigned int, unsigned char) C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+AF_Stepper::AF_Stepper(unsigned int, unsigned char) C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+AF_Stepper::onestep(unsigned char, unsigned char) C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+AF_Stepper::release()                             C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+AF_Stepper::setSpeed(unsigned int)                C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+AF_Stepper::step(unsigned int, unsigned char, unsigned char) C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+HardwareSerial::HardwareSerial(ring_buffer*, ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+HardwareSerial::HardwareSerial(ring_buffer*, ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+HardwareSerial::available()                       C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+                                                  ./src/arduinoMain.o
+HardwareSerial::begin(unsigned long)              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+                                                  ./src/arduinoMain.o
+HardwareSerial::begin(unsigned long, unsigned char) C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+HardwareSerial::end()                             C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+HardwareSerial::flush()                           C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+HardwareSerial::operator bool()                   C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+HardwareSerial::peek()                            C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+HardwareSerial::read()                            C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+                                                  ./src/arduinoMain.o
+HardwareSerial::write(unsigned char)              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+Print::print(Printable const&)                    C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+Print::print(String const&)                       C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+Print::print(__FlashStringHelper const*)          C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+Print::print(char const*)                         C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+                                                  ./src/arduinoMain.o
+Print::print(char)                                C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+Print::print(double, int)                         C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+Print::print(int, int)                            C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+Print::print(long, int)                           C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+Print::print(unsigned char, int)                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+Print::print(unsigned int, int)                   C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+Print::print(unsigned long, int)                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+Print::printFloat(double, unsigned char)          C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+Print::printNumber(unsigned long, unsigned char)  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+Print::println()                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+Print::println(Printable const&)                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+Print::println(String const&)                     C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+Print::println(__FlashStringHelper const*)        C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+Print::println(char const*)                       C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+                                                  ./src/arduinoMain.o
+Print::println(char)                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+Print::println(double, int)                       C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+Print::println(int, int)                          C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+                                                  ./src/arduinoMain.o
+Print::println(long, int)                         C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+Print::println(unsigned char, int)                C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+Print::println(unsigned int, int)                 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+Print::println(unsigned long, int)                C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+Print::write(char const*)                         C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+Print::write(unsigned char const*, unsigned int)  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+Serial                                            C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+                                                  ./src/arduinoMain.o
+SerialCommand::SerialCommand(SerialCommandCallback*, char) C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o)
+                                                  ./src/arduinoMain.o
+SerialCommand::SerialCommand(SerialCommandCallback*, char) C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o)
+SerialCommand::clearBuffer()                      C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o)
+SerialCommand::next()                             C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o)
+SerialCommand::onCmdEnd(char*, char*)             C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o)
+SerialCommand::onCmdlineComplete(char*, char*)    C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o)
+SerialCommand::parseBuffer()                      C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o)
+SerialCommand::processNumberend(char*, char*)     C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o)
+SerialCommand::setDefaultHandler(void (*)(char const*)) C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o)
+                                                  ./src/arduinoMain.o
+SerialCommand::update(char)                       C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o)
+                                                  ./src/arduinoMain.o
+String::String(String const&)                     C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::String(String const&)                     C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::String(char const*)                       C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::String(char const*)                       C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::String(char)                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::String(char)                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::String(int, unsigned char)                C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::String(int, unsigned char)                C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::String(long, unsigned char)               C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::String(long, unsigned char)               C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::String(unsigned char, unsigned char)      C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::String(unsigned char, unsigned char)      C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::String(unsigned int, unsigned char)       C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::String(unsigned int, unsigned char)       C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::String(unsigned long, unsigned char)      C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::String(unsigned long, unsigned char)      C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::changeBuffer(unsigned int)                C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::charAt(unsigned int) const                C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::compareTo(String const&) const            C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::concat(String const&)                     C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::concat(char const*)                       C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::concat(char const*, unsigned int)         C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::concat(char)                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::concat(int)                               C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::concat(long)                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::concat(unsigned char)                     C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::concat(unsigned int)                      C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::concat(unsigned long)                     C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::copy(char const*, unsigned int)           C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::endsWith(String const&) const             C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::equals(String const&) const               C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::equals(char const*) const                 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::equalsIgnoreCase(String const&) const     C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::getBytes(unsigned char*, unsigned int, unsigned int) const C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::indexOf(String const&) const              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::indexOf(String const&, unsigned int) const C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::indexOf(char) const                       C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::indexOf(char, unsigned int) const         C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::invalidate()                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::lastIndexOf(String const&) const          C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::lastIndexOf(String const&, unsigned int) const C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::lastIndexOf(char) const                   C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::lastIndexOf(char, unsigned int) const     C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::operator<(String const&) const            C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::operator<=(String const&) const           C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::operator=(String const&)                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::operator=(char const*)                    C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::operator>(String const&) const            C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::operator>=(String const&) const           C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::operator[](unsigned int)                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::operator[](unsigned int) const            C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+String::replace(String const&, String const&)     C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::replace(char, char)                       C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::reserve(unsigned int)                     C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::setCharAt(unsigned int, char)             C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::startsWith(String const&) const           C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::startsWith(String const&, unsigned int) const C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::substring(unsigned int) const             C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::substring(unsigned int, unsigned int) const C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::toInt() const                             C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::toLowerCase()                             C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::toUpperCase()                             C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::trim()                                    C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::~String()                                 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+String::~String()                                 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+__addsf3                                          c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+__bad_interrupt                                   c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__brkval                                          C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(realloc.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(malloc.o)
+__bss_end                                         c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+__bss_start                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+__clz_tab                                         c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clz.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clzsi2.o)
+__clzsi2                                          c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clzsi2.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_usi_to_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_si_to_sf.o)
+__ctors_end                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o)
+__ctors_start                                     c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o)
+__ctype_isfalse                                   c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isspace.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isprint.o)
+__ctype_istrue                                    c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+__cxa_guard_abort                                 ./src/main.o
+__cxa_guard_acquire                               ./src/main.o
+__cxa_guard_release                               ./src/main.o
+__cxa_pure_virtual                                ./src/main.o
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+__data_end                                        c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+__data_load_start                                 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+__data_start                                      c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+__divmodsi4                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodsi4.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(random.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WMath.o)
+__divsf3                                          c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_div_sf.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+__do_clear_bss                                    c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(random.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clz.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_unpack_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_pack_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clzsi2.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_usi_to_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_thenan_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_sf_to_si.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_si_to_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_unord_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_le_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_lt_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ge_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_gt_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_div_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mul_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fixunssfsi.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(realloc.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(malloc.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring_digital.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(main.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WMath.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+                                                  C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+                                                  C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o)
+                                                  ./src/main.o
+                                                  ./src/arduinoMain.o
+__do_copy_data                                    c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(random.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clz.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_unpack_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_pack_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clzsi2.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_usi_to_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_thenan_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_sf_to_si.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_si_to_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_unord_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_le_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_lt_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ge_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_gt_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_div_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mul_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fixunssfsi.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(realloc.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(malloc.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring_digital.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(main.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WMath.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+                                                  C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+                                                  C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o)
+                                                  ./src/main.o
+                                                  ./src/arduinoMain.o
+__do_global_ctors                                 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+                                                  C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+                                                  ./src/arduinoMain.o
+__epilogue_restores__                             c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_epilogue.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(random.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_usi_to_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_sf_to_si.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_si_to_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_unord_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_le_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_lt_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ge_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_gt_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_div_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mul_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o)
+__fixsfsi                                         c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_sf_to_si.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fixunssfsi.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+__fixunssfsi                                      c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fixunssfsi.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+__floatsisf                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_si_to_sf.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+__floatunsisf                                     c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_usi_to_sf.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+__flp                                             C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(realloc.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(malloc.o)
+__fpcmp_parts_f                                   c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_le_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_lt_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ge_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_gt_sf.o)
+__gesf2                                           c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ge_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fixunssfsi.o)
+__gtsf2                                           c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_gt_sf.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+__heap_end                                        c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(malloc.o)
+__heap_start                                      C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(malloc.o)
+__init                                            c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__lesf2                                           c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_le_sf.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+__ltsf2                                           c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_lt_sf.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+__malloc_heap_end                                 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(malloc.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(realloc.o)
+__malloc_heap_start                               C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(malloc.o)
+__malloc_margin                                   C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(malloc.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(realloc.o)
+__mulsf3                                          c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mul_sf.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+__mulsi3                                          c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mulsi3.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(random.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WMath.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+                                                  C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+__mulsi_const_10                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(mulsi10.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(atol.o)
+__pack_f                                          c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_pack_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_usi_to_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_si_to_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_div_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mul_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o)
+__prologue_saves__                                c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_prologue.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(random.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_usi_to_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_sf_to_si.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_si_to_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_unord_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_le_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_lt_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ge_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_gt_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_div_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mul_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o)
+__stack                                           c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__subsf3                                          c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fixunssfsi.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+__tablejump2__                                    c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_tablejump.o)
+__tablejump__                                     c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_tablejump.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o)
+__thenan_sf                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_thenan_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_div_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mul_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o)
+__udivmodhi4                                      c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodhi4.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(utoa.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(itoa.o)
+__udivmodsi4                                      c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodsi4.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ultoa.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodsi4.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+                                                  C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+__unordsf2                                        c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_unord_sf.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+__unpack_f                                        c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_unpack_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_sf_to_si.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_unord_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_le_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_lt_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ge_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_gt_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_div_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mul_sf.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o)
+__vector_1                                        c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_10                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_11                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_12                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_13                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_14                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_15                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_16                                       C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_17                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_18                                       C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_19                                       C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_2                                        c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_20                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_21                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_22                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_23                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_24                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_25                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_3                                        c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_4                                        c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_5                                        c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_6                                        c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_7                                        c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_8                                        c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_9                                        c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_default                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vectors                                         c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+_exit                                             c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+atol                                              c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(atol.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+commandDefault(char const*)                       ./src/arduinoMain.o
+commandList                                       ./src/arduinoMain.o
+commandOff()                                      ./src/arduinoMain.o
+commandOn()                                       ./src/arduinoMain.o
+commandPower()                                    ./src/arduinoMain.o
+commandProcessor                                  ./src/arduinoMain.o
+commandTest()                                     ./src/arduinoMain.o
+commandTestRandom()                               ./src/arduinoMain.o
+delay                                             C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring.o)
+                                                  C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+                                                  ./src/arduinoMain.o
+delayMicroseconds                                 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring.o)
+                                                  ./src/arduinoMain.o
+digitalRead                                       C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring_digital.o)
+digitalWrite                                      C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring_digital.o)
+                                                  C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+                                                  ./src/arduinoMain.o
+digital_pin_to_bit_mask_PGM                       C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring_digital.o)
+digital_pin_to_port_PGM                           C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring_digital.o)
+digital_pin_to_timer_PGM                          C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring_digital.o)
+exit                                              c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+free                                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(malloc.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(realloc.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+                                                  ./src/main.o
+init                                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(main.o)
+initPWM1(unsigned char)                           C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+initPWM2(unsigned char)                           C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+isgraph                                           c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isprint.o)
+isprint                                           c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isprint.o)
+                                                  C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o)
+isspace                                           c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isspace.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+itoa                                              c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(itoa.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+loop                                              ./src/arduinoMain.o
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(main.o)
+ltoa                                              c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+main                                              C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(main.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+makeWord(unsigned char, unsigned char)            C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WMath.o)
+makeWord(unsigned int)                            C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WMath.o)
+malloc                                            C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(malloc.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(realloc.o)
+                                                  ./src/main.o
+map(long, long, long, long, long)                 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WMath.o)
+memcpy                                            c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(memcpy.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(memmove.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(realloc.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+memmove                                           c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(memmove.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+micros                                            C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring.o)
+microstepcurve                                    C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+millis                                            C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring.o)
+                                                  ./src/arduinoMain.o
+motors                                            ./src/arduinoMain.o
+operator delete(void*)                            ./src/main.o
+operator delete[](void*)                          ./src/main.o
+operator new(unsigned int)                        ./src/main.o
+operator new[](unsigned int)                      ./src/main.o
+operator+(StringSumHelper const&, String const&)  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+operator+(StringSumHelper const&, char const*)    C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+operator+(StringSumHelper const&, char)           C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+operator+(StringSumHelper const&, int)            C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+operator+(StringSumHelper const&, long)           C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+operator+(StringSumHelper const&, unsigned char)  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+operator+(StringSumHelper const&, unsigned int)   C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+operator+(StringSumHelper const&, unsigned long)  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+pinMode                                           C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring_digital.o)
+                                                  C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(AFMotor.o)
+                                                  ./src/arduinoMain.o
+port_to_input_PGM                                 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring_digital.o)
+port_to_mode_PGM                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring_digital.o)
+port_to_output_PGM                                C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring_digital.o)
+random                                            c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(random.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WMath.o)
+random(long)                                      C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WMath.o)
+random(long, long)                                C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WMath.o)
+                                                  ./src/arduinoMain.o
+randomSeed(unsigned int)                          C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WMath.o)
+random_r                                          c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(random.o)
+realloc                                           C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(realloc.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+rx_buffer                                         C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+serialEvent()                                     C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+serialEventRun()                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(main.o)
+setup                                             ./src/arduinoMain.o
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(main.o)
+srandom                                           c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(random.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WMath.o)
+strchr                                            c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strchr.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+strcmp                                            c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strcmp.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+strcpy                                            c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strcpy.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+                                                  C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o)
+strncmp                                           c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strncmp.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+                                                  C:\dev\eclipse_avr\ArduLibs\328P_16MHZ\libArduLibs.a(cmdprocessor.o)
+strncpy                                           c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strncpy.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+strrchr                                           c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strrchr.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+strrev                                            c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strrev.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(utoa.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ultoa.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(itoa.o)
+strstr                                            c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strstr.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+timer0_millis                                     C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring.o)
+timer0_overflow_count                             C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(wiring.o)
+tolower                                           c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(tolower.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+toupper                                           c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(toupper.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+tx_buffer                                         C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+ultoa                                             c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ultoa.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+utoa                                              c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(utoa.o)
+                                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(WString.o)
+vtable for HardwareSerial                         C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)
+vtable for Print                                  C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(Print.o)
+vtable for Stream                                 C:\dev\eclipse_avr\ArduCore\328P_16MHZ\libArduCore.a(HardwareSerial.o)

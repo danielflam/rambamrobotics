@@ -1,0 +1,959 @@
+Archive member included because of file (symbol)
+
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mulsi3.o)
+                              ./Libraries/AFMotor/AFMotor.o (__mulsi3)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodqi4.o)
+                              ./Libraries/Servo/Servo.o (__udivmodqi4)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodhi4.o)
+                              ./Libraries/SoftwareSerial/SoftwareSerial.o (__divmodhi4)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodsi4.o)
+                              ./Libraries/AFMotor/AFMotor.o (__udivmodsi4)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+                              c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o (exit)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+                              ./src/main.o (__do_copy_data)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+                              ./src/main.o (__do_clear_bss)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o)
+                              ./Libraries/Wire/Wire.o (__do_global_ctors)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodhi4.o)
+                              c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_tablejump.o)
+                              c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o) (__tablejump__)
+c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+                              ./src/main.o (malloc)
+
+Allocating common symbols
+Common symbol       size              file
+
+__brkval            0x2               c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+__flp               0x2               c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+ .text          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .text.__cxa_pure_virtual
+                0x00000000        0x0 ./src/main.o
+ .text.__cxa_guard_acquire
+                0x00000000        0x0 ./src/main.o
+ .text.__cxa_guard_release
+                0x00000000        0x0 ./src/main.o
+ .text.__cxa_guard_abort
+                0x00000000        0x0 ./src/main.o
+ .text._ZdaPv   0x00000000        0x0 ./src/main.o
+ .text._ZdlPv   0x00000000        0x0 ./src/main.o
+ .text._Znaj    0x00000000        0x0 ./src/main.o
+ .text._Znwj    0x00000000        0x0 ./src/main.o
+ .text          0x00000000        0x0 ./Libraries/Wire/utility/twi.o
+ .data          0x00000000        0x0 ./Libraries/Wire/utility/twi.o
+ .bss           0x00000000        0x0 ./Libraries/Wire/utility/twi.o
+ .text._Z14twi_setAddressh
+                0x00000000        0x0 ./Libraries/Wire/utility/twi.o
+ .text._Z12twi_readFromhPhhh
+                0x00000000        0x0 ./Libraries/Wire/utility/twi.o
+ .text._Z11twi_writeTohPhhhh
+                0x00000000        0x0 ./Libraries/Wire/utility/twi.o
+ .text._Z22twi_attachSlaveRxEventPFvPhiE
+                0x00000000        0x0 ./Libraries/Wire/utility/twi.o
+ .text._Z22twi_attachSlaveTxEventPFvvE
+                0x00000000        0x0 ./Libraries/Wire/utility/twi.o
+ .text._Z9twi_replyh
+                0x00000000        0x0 ./Libraries/Wire/utility/twi.o
+ .text._Z8twi_stopv
+                0x00000000        0x0 ./Libraries/Wire/utility/twi.o
+ .text._Z14twi_releaseBusv
+                0x00000000        0x0 ./Libraries/Wire/utility/twi.o
+ .text._Z8twi_initv
+                0x00000000        0x0 ./Libraries/Wire/utility/twi.o
+ .text          0x00000000        0x0 ./Libraries/Wire/Wire.o
+ .data          0x00000000        0x0 ./Libraries/Wire/Wire.o
+ .bss           0x00000000        0x0 ./Libraries/Wire/Wire.o
+ .text._ZN7TwoWireC2Ev
+                0x00000000        0x0 ./Libraries/Wire/Wire.o
+ .text._ZN7TwoWireC1Ev
+                0x00000000        0x0 ./Libraries/Wire/Wire.o
+ .text._ZN7TwoWire17beginTransmissionEh
+                0x00000000        0x0 ./Libraries/Wire/Wire.o
+ .text._ZN7TwoWire17beginTransmissionEi
+                0x00000000        0x0 ./Libraries/Wire/Wire.o
+ .text._ZN7TwoWire16onReceiveServiceEPhi
+                0x00000000        0x0 ./Libraries/Wire/Wire.o
+ .text._ZN7TwoWire16onRequestServiceEv
+                0x00000000        0x0 ./Libraries/Wire/Wire.o
+ .text._ZN7TwoWire9onReceiveEPFviE
+                0x00000000        0x0 ./Libraries/Wire/Wire.o
+ .text._ZN7TwoWire9onRequestEPFvvE
+                0x00000000        0x0 ./Libraries/Wire/Wire.o
+ .text._ZN7TwoWire15endTransmissionEh
+                0x00000000        0x0 ./Libraries/Wire/Wire.o
+ .text._ZN7TwoWire15endTransmissionEv
+                0x00000000        0x0 ./Libraries/Wire/Wire.o
+ .text._ZN7TwoWire11requestFromEhhh
+                0x00000000        0x0 ./Libraries/Wire/Wire.o
+ .text._ZN7TwoWire11requestFromEiii
+                0x00000000        0x0 ./Libraries/Wire/Wire.o
+ .text._ZN7TwoWire11requestFromEii
+                0x00000000        0x0 ./Libraries/Wire/Wire.o
+ .text._ZN7TwoWire11requestFromEhh
+                0x00000000        0x0 ./Libraries/Wire/Wire.o
+ .text._ZN7TwoWire5beginEv
+                0x00000000        0x0 ./Libraries/Wire/Wire.o
+ .text._ZN7TwoWire5beginEh
+                0x00000000        0x0 ./Libraries/Wire/Wire.o
+ .text._ZN7TwoWire5beginEi
+                0x00000000        0x0 ./Libraries/Wire/Wire.o
+ .bss._ZN7TwoWire9txAddressE
+                0x00000000        0x0 ./Libraries/Wire/Wire.o
+ .bss._ZN7TwoWire14user_onRequestE
+                0x00000000        0x0 ./Libraries/Wire/Wire.o
+ .bss._ZN7TwoWire14user_onReceiveE
+                0x00000000        0x0 ./Libraries/Wire/Wire.o
+ .rodata._ZTV6Stream
+                0x00000000        0x0 ./Libraries/Wire/Wire.o
+ .text          0x00000000        0x0 ./Libraries/SoftwareSerial/SoftwareSerial.o
+ .data          0x00000000        0x0 ./Libraries/SoftwareSerial/SoftwareSerial.o
+ .bss           0x00000000        0x0 ./Libraries/SoftwareSerial/SoftwareSerial.o
+ .text._ZN14SoftwareSerial6listenEv
+                0x00000000        0x0 ./Libraries/SoftwareSerial/SoftwareSerial.o
+ .text._ZN14SoftwareSerial12tx_pin_writeEh
+                0x00000000        0x0 ./Libraries/SoftwareSerial/SoftwareSerial.o
+ .text._ZN14SoftwareSerial11rx_pin_readEv
+                0x00000000        0x0 ./Libraries/SoftwareSerial/SoftwareSerial.o
+ .text._ZN14SoftwareSerial5beginEl
+                0x00000000        0x0 ./Libraries/SoftwareSerial/SoftwareSerial.o
+ .text._ZN14SoftwareSerial3endEv
+                0x00000000        0x0 ./Libraries/SoftwareSerial/SoftwareSerial.o
+ .text._ZN14SoftwareSerialD1Ev
+                0x00000000        0x0 ./Libraries/SoftwareSerial/SoftwareSerial.o
+ .text._ZN14SoftwareSerialD2Ev
+                0x00000000        0x0 ./Libraries/SoftwareSerial/SoftwareSerial.o
+ .text._ZN14SoftwareSerial4readEv
+                0x00000000        0x0 ./Libraries/SoftwareSerial/SoftwareSerial.o
+ .text._ZN14SoftwareSerial9availableEv
+                0x00000000        0x0 ./Libraries/SoftwareSerial/SoftwareSerial.o
+ .text._ZN14SoftwareSerial5writeEh
+                0x00000000        0x0 ./Libraries/SoftwareSerial/SoftwareSerial.o
+ .text._ZN14SoftwareSerial5flushEv
+                0x00000000        0x0 ./Libraries/SoftwareSerial/SoftwareSerial.o
+ .text._ZN14SoftwareSerial4peekEv
+                0x00000000        0x0 ./Libraries/SoftwareSerial/SoftwareSerial.o
+ .text._ZN14SoftwareSerial5setRXEh
+                0x00000000        0x0 ./Libraries/SoftwareSerial/SoftwareSerial.o
+ .text._ZN14SoftwareSerial5setTXEh
+                0x00000000        0x0 ./Libraries/SoftwareSerial/SoftwareSerial.o
+ .text._ZN14SoftwareSerialC1Ehhb
+                0x00000000        0x0 ./Libraries/SoftwareSerial/SoftwareSerial.o
+ .text._ZN14SoftwareSerialC2Ehhb
+                0x00000000        0x0 ./Libraries/SoftwareSerial/SoftwareSerial.o
+ .rodata._ZTV14SoftwareSerial
+                0x00000000        0x0 ./Libraries/SoftwareSerial/SoftwareSerial.o
+ .progmem.data  0x00000000        0x0 ./Libraries/SoftwareSerial/SoftwareSerial.o
+ .rodata._ZTV6Stream
+                0x00000000        0x0 ./Libraries/SoftwareSerial/SoftwareSerial.o
+ .text          0x00000000        0x0 ./Libraries/Servo/Servo.o
+ .data          0x00000000        0x0 ./Libraries/Servo/Servo.o
+ .bss           0x00000000        0x0 ./Libraries/Servo/Servo.o
+ .text._ZN5ServoC2Ev
+                0x00000000        0x0 ./Libraries/Servo/Servo.o
+ .text._ZN5ServoC1Ev
+                0x00000000        0x0 ./Libraries/Servo/Servo.o
+ .text._ZN5Servo6detachEv
+                0x00000000        0x0 ./Libraries/Servo/Servo.o
+ .text._ZN5Servo17writeMicrosecondsEi
+                0x00000000        0x0 ./Libraries/Servo/Servo.o
+ .text._ZN5Servo16readMicrosecondsEv
+                0x00000000        0x0 ./Libraries/Servo/Servo.o
+ .text._ZN5Servo8attachedEv
+                0x00000000        0x0 ./Libraries/Servo/Servo.o
+ .text._ZN5Servo4readEv
+                0x00000000        0x0 ./Libraries/Servo/Servo.o
+ .text._ZN5Servo5writeEi
+                0x00000000        0x0 ./Libraries/Servo/Servo.o
+ .text._ZN5Servo6attachEiii
+                0x00000000        0x0 ./Libraries/Servo/Servo.o
+ .text._ZN5Servo6attachEi
+                0x00000000        0x0 ./Libraries/Servo/Servo.o
+ .text          0x00000000        0x0 ./Libraries/AFMotor/AFMotor.o
+ .data          0x00000000        0x0 ./Libraries/AFMotor/AFMotor.o
+ .bss           0x00000000        0x0 ./Libraries/AFMotor/AFMotor.o
+ .text._ZN17AFMotorControllerC2Ev
+                0x00000000        0x0 ./Libraries/AFMotor/AFMotor.o
+ .text._ZN17AFMotorControllerC1Ev
+                0x00000000        0x0 ./Libraries/AFMotor/AFMotor.o
+ .text._ZN10AF_DCMotor8setSpeedEh
+                0x00000000        0x0 ./Libraries/AFMotor/AFMotor.o
+ .text._ZN10AF_Stepper8setSpeedEj
+                0x00000000        0x0 ./Libraries/AFMotor/AFMotor.o
+ .text._Z8initPWM1h
+                0x00000000        0x0 ./Libraries/AFMotor/AFMotor.o
+ .text._Z8initPWM2h
+                0x00000000        0x0 ./Libraries/AFMotor/AFMotor.o
+ .text._ZN17AFMotorController8latch_txEv
+                0x00000000        0x0 ./Libraries/AFMotor/AFMotor.o
+ .text._ZN10AF_Stepper7onestepEhh
+                0x00000000        0x0 ./Libraries/AFMotor/AFMotor.o
+ .text._ZN10AF_Stepper4stepEjhh
+                0x00000000        0x0 ./Libraries/AFMotor/AFMotor.o
+ .text._ZN10AF_Stepper7releaseEv
+                0x00000000        0x0 ./Libraries/AFMotor/AFMotor.o
+ .text._ZN10AF_DCMotor3runEh
+                0x00000000        0x0 ./Libraries/AFMotor/AFMotor.o
+ .text._ZN17AFMotorController6enableEv
+                0x00000000        0x0 ./Libraries/AFMotor/AFMotor.o
+ .text._ZN10AF_DCMotorC1Ehh
+                0x00000000        0x0 ./Libraries/AFMotor/AFMotor.o
+ .text._ZN10AF_DCMotorC2Ehh
+                0x00000000        0x0 ./Libraries/AFMotor/AFMotor.o
+ .text._ZN10AF_StepperC1Ejh
+                0x00000000        0x0 ./Libraries/AFMotor/AFMotor.o
+ .text._ZN10AF_StepperC2Ejh
+                0x00000000        0x0 ./Libraries/AFMotor/AFMotor.o
+ .data.microstepcurve
+                0x00000000        0x0 ./Libraries/AFMotor/AFMotor.o
+ .bss._ZL2MC    0x00000000        0x0 ./Libraries/AFMotor/AFMotor.o
+ .bss._ZL11latch_state
+                0x00000000        0x0 ./Libraries/AFMotor/AFMotor.o
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mulsi3.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc   0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mulsi3.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodqi4.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodqi4.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc   0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_tablejump.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_tablejump.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_tablejump.o)
+ .text          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .data          0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .bss           0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+ COMMON         0x00000000        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+LOAD ./src/main.o
+LOAD ./Libraries/Wire/utility/twi.o
+LOAD ./Libraries/Wire/Wire.o
+LOAD ./Libraries/SoftwareSerial/SoftwareSerial.o
+LOAD ./Libraries/Servo/Servo.o
+LOAD ./Libraries/AFMotor/AFMotor.o
+LOAD c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a
+LOAD c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libm.a
+LOAD c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a
+LOAD c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a
+LOAD c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000      0x98c
+ *(.vectors)
+ .vectors       0x00000000       0x68 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000068                . = ALIGN (0x2)
+                0x00000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000068        0x0 linker stubs
+ *(.trampolines*)
+                0x00000068                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000068                __ctors_start = .
+ *(.ctors)
+ .ctors         0x00000068        0x2 ./Libraries/Wire/Wire.o
+ .ctors         0x0000006a        0x2 ./Libraries/AFMotor/AFMotor.o
+                0x0000006c                __ctors_end = .
+                0x0000006c                __dtors_start = .
+ *(.dtors)
+                0x0000006c                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000006c        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+                0x0000006c                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000006c        0xc c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000078       0x16 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+                0x00000078                __do_copy_data
+ .init4         0x0000008e       0x10 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+                0x0000008e                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x0000009e       0x14 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o)
+                0x0000009e                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000b2        0x4 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+ *(.init9)
+ *(.text)
+ .text          0x000000b6        0x2 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+                0x000000b6                __vector_22
+                0x000000b6                __vector_1
+                0x000000b6                __vector_12
+                0x000000b6                __bad_interrupt
+                0x000000b6                __vector_6
+                0x000000b6                __vector_23
+                0x000000b6                __vector_25
+                0x000000b6                __vector_13
+                0x000000b6                __vector_17
+                0x000000b6                __vector_19
+                0x000000b6                __vector_7
+                0x000000b6                __vector_9
+                0x000000b6                __vector_2
+                0x000000b6                __vector_21
+                0x000000b6                __vector_15
+                0x000000b6                __vector_8
+                0x000000b6                __vector_14
+                0x000000b6                __vector_10
+                0x000000b6                __vector_16
+                0x000000b6                __vector_18
+                0x000000b6                __vector_20
+                0x000000b8                . = ALIGN (0x2)
+ *(.text.*)
+ .text.loop     0x000000b8       0xb4 ./src/main.o
+                0x000000b8                loop
+ .text.setup    0x0000016c       0x1a ./src/main.o
+                0x0000016c                setup
+ .text.main     0x00000186        0xa ./src/main.o
+                0x00000186                main
+ .text._Z12twi_transmitPKhh
+                0x00000190       0x36 ./Libraries/Wire/utility/twi.o
+                0x00000190                twi_transmit(unsigned char const*, unsigned char)
+ .text.__vector_24
+                0x000001c6      0x322 ./Libraries/Wire/utility/twi.o
+                0x000001c6                __vector_24
+ .text._ZN7TwoWire9availableEv
+                0x000004e8       0x12 ./Libraries/Wire/Wire.o
+                0x000004e8                TwoWire::available()
+ .text._ZN7TwoWire4readEv
+                0x000004fa       0x2a ./Libraries/Wire/Wire.o
+                0x000004fa                TwoWire::read()
+ .text._ZN7TwoWire4peekEv
+                0x00000524       0x22 ./Libraries/Wire/Wire.o
+                0x00000524                TwoWire::peek()
+ .text._ZN7TwoWire5flushEv
+                0x00000546        0x2 ./Libraries/Wire/Wire.o
+                0x00000546                TwoWire::flush()
+ .text._GLOBAL__I__ZN7TwoWire8rxBufferE
+                0x00000548       0x2e ./Libraries/Wire/Wire.o
+ .text._ZN7TwoWire5writeEPKhj
+                0x00000576       0x60 ./Libraries/Wire/Wire.o
+                0x00000576                TwoWire::write(unsigned char const*, unsigned int)
+ .text._ZN7TwoWire5writeEh
+                0x000005d6       0x5e ./Libraries/Wire/Wire.o
+                0x000005d6                TwoWire::write(unsigned char)
+ .text._ZN14SoftwareSerial4recvEv
+                0x00000634       0xd4 ./Libraries/SoftwareSerial/SoftwareSerial.o
+                0x00000634                SoftwareSerial::recv()
+ .text.__vector_3
+                0x00000708       0x52 ./Libraries/SoftwareSerial/SoftwareSerial.o
+                0x00000708                __vector_3
+ .text.__vector_4
+                0x0000075a       0x52 ./Libraries/SoftwareSerial/SoftwareSerial.o
+                0x0000075a                __vector_4
+ .text.__vector_5
+                0x000007ac       0x52 ./Libraries/SoftwareSerial/SoftwareSerial.o
+                0x000007ac                __vector_5
+ .text.__vector_11
+                0x000007fe      0x17c ./Libraries/Servo/Servo.o
+                0x000007fe                __vector_11
+ .text._GLOBAL__I_microstepcurve
+                0x0000097a        0x2 ./Libraries/AFMotor/AFMotor.o
+ .text.libgcc   0x0000097c        0xc c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_tablejump.o)
+                0x00000980                __tablejump__
+                0x0000097c                __tablejump2__
+                0x00000988                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000988        0x0 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+                0x00000988                exit
+                0x00000988                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000988        0x4 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000098c                _etext = .
+
+.data           0x00800100       0x12 load address 0x0000098c
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x2 ./src/main.o
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata._ZTV7TwoWire
+                0x00800102       0x10 ./Libraries/Wire/Wire.o
+                0x00800102                vtable for TwoWire
+ *(.gnu.linkonce.d*)
+                0x00800112                . = ALIGN (0x2)
+                0x00800112                _edata = .
+                0x00800112                PROVIDE (__data_end, .)
+
+.bss            0x00800112      0x129
+                0x00800112                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss._ZL9twi_slarw
+                0x00800112        0x1 ./Libraries/Wire/utility/twi.o
+ .bss._ZL21twi_masterBufferIndex
+                0x00800113        0x1 ./Libraries/Wire/utility/twi.o
+ .bss._ZL22twi_masterBufferLength
+                0x00800114        0x1 ./Libraries/Wire/utility/twi.o
+ .bss._ZL16twi_masterBuffer
+                0x00800115       0x20 ./Libraries/Wire/utility/twi.o
+ .bss._ZL12twi_sendStop
+                0x00800135        0x1 ./Libraries/Wire/utility/twi.o
+ .bss._ZL14twi_inRepStart
+                0x00800136        0x1 ./Libraries/Wire/utility/twi.o
+ .bss._ZL9twi_state
+                0x00800137        0x1 ./Libraries/Wire/utility/twi.o
+ .bss._ZL9twi_error
+                0x00800138        0x1 ./Libraries/Wire/utility/twi.o
+ .bss._ZL17twi_rxBufferIndex
+                0x00800139        0x1 ./Libraries/Wire/utility/twi.o
+ .bss._ZL12twi_rxBuffer
+                0x0080013a       0x20 ./Libraries/Wire/utility/twi.o
+ .bss._ZL18twi_onSlaveReceive
+                0x0080015a        0x2 ./Libraries/Wire/utility/twi.o
+ .bss._ZL17twi_txBufferIndex
+                0x0080015c        0x1 ./Libraries/Wire/utility/twi.o
+ .bss._ZL18twi_txBufferLength
+                0x0080015d        0x1 ./Libraries/Wire/utility/twi.o
+ .bss._ZL19twi_onSlaveTransmit
+                0x0080015e        0x2 ./Libraries/Wire/utility/twi.o
+ .bss._ZL12twi_txBuffer
+                0x00800160       0x20 ./Libraries/Wire/utility/twi.o
+ .bss._ZN7TwoWire8rxBufferE
+                0x00800180       0x20 ./Libraries/Wire/Wire.o
+                0x00800180                TwoWire::rxBuffer
+ .bss._ZN7TwoWire13rxBufferIndexE
+                0x008001a0        0x1 ./Libraries/Wire/Wire.o
+                0x008001a0                TwoWire::rxBufferIndex
+ .bss._ZN7TwoWire14rxBufferLengthE
+                0x008001a1        0x1 ./Libraries/Wire/Wire.o
+                0x008001a1                TwoWire::rxBufferLength
+ .bss._ZN7TwoWire8txBufferE
+                0x008001a2       0x20 ./Libraries/Wire/Wire.o
+                0x008001a2                TwoWire::txBuffer
+ .bss._ZN7TwoWire13txBufferIndexE
+                0x008001c2        0x1 ./Libraries/Wire/Wire.o
+                0x008001c2                TwoWire::txBufferIndex
+ .bss._ZN7TwoWire14txBufferLengthE
+                0x008001c3        0x1 ./Libraries/Wire/Wire.o
+                0x008001c3                TwoWire::txBufferLength
+ .bss._ZN7TwoWire12transmittingE
+                0x008001c4        0x1 ./Libraries/Wire/Wire.o
+                0x008001c4                TwoWire::transmitting
+ .bss.Wire      0x008001c5        0xc ./Libraries/Wire/Wire.o
+                0x008001c5                Wire
+ .bss._ZN14SoftwareSerial13active_objectE
+                0x008001d1        0x2 ./Libraries/SoftwareSerial/SoftwareSerial.o
+                0x008001d1                SoftwareSerial::active_object
+ .bss._ZN14SoftwareSerial15_receive_bufferE
+                0x008001d3       0x40 ./Libraries/SoftwareSerial/SoftwareSerial.o
+                0x008001d3                SoftwareSerial::_receive_buffer
+ .bss._ZN14SoftwareSerial20_receive_buffer_tailE
+                0x00800213        0x1 ./Libraries/SoftwareSerial/SoftwareSerial.o
+                0x00800213                SoftwareSerial::_receive_buffer_tail
+ .bss._ZN14SoftwareSerial20_receive_buffer_headE
+                0x00800214        0x1 ./Libraries/SoftwareSerial/SoftwareSerial.o
+                0x00800214                SoftwareSerial::_receive_buffer_head
+ .bss.ServoCount
+                0x00800215        0x1 ./Libraries/Servo/Servo.o
+                0x00800215                ServoCount
+ .bss._ZL6servos
+                0x00800216       0x24 ./Libraries/Servo/Servo.o
+ .bss._ZL7Channel
+                0x0080023a        0x1 ./Libraries/Servo/Servo.o
+ *(COMMON)
+                0x0080023b                PROVIDE (__bss_end, .)
+                0x0000098c                __data_load_start = LOADADDR (.data)
+                0x0000099e                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080023b        0x0
+                0x0080023b                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x0080023b                PROVIDE (__noinit_end, .)
+                0x0080023b                _end = .
+                0x0080023b                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(LineFollower.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+AFMotorController::AFMotorController()            ./Libraries/AFMotor/AFMotor.o
+AFMotorController::AFMotorController()            ./Libraries/AFMotor/AFMotor.o
+AFMotorController::enable()                       ./Libraries/AFMotor/AFMotor.o
+AFMotorController::latch_tx()                     ./Libraries/AFMotor/AFMotor.o
+AF_DCMotor::AF_DCMotor(unsigned char, unsigned char) ./Libraries/AFMotor/AFMotor.o
+AF_DCMotor::AF_DCMotor(unsigned char, unsigned char) ./Libraries/AFMotor/AFMotor.o
+AF_DCMotor::run(unsigned char)                    ./Libraries/AFMotor/AFMotor.o
+AF_DCMotor::setSpeed(unsigned char)               ./Libraries/AFMotor/AFMotor.o
+AF_Stepper::AF_Stepper(unsigned int, unsigned char) ./Libraries/AFMotor/AFMotor.o
+AF_Stepper::AF_Stepper(unsigned int, unsigned char) ./Libraries/AFMotor/AFMotor.o
+AF_Stepper::onestep(unsigned char, unsigned char) ./Libraries/AFMotor/AFMotor.o
+AF_Stepper::release()                             ./Libraries/AFMotor/AFMotor.o
+AF_Stepper::setSpeed(unsigned int)                ./Libraries/AFMotor/AFMotor.o
+AF_Stepper::step(unsigned int, unsigned char, unsigned char) ./Libraries/AFMotor/AFMotor.o
+HardwareSerial::begin(unsigned long)              ./src/main.o
+Print::print(char const*)                         ./src/main.o
+Print::print(int, int)                            ./src/main.o
+Print::println()                                  ./src/main.o
+Print::write(unsigned char const*, unsigned int)  ./Libraries/SoftwareSerial/SoftwareSerial.o
+                                                  ./Libraries/Wire/Wire.o
+Serial                                            ./src/main.o
+Servo::Servo()                                    ./Libraries/Servo/Servo.o
+Servo::Servo()                                    ./Libraries/Servo/Servo.o
+Servo::attach(int)                                ./Libraries/Servo/Servo.o
+Servo::attach(int, int, int)                      ./Libraries/Servo/Servo.o
+Servo::attached()                                 ./Libraries/Servo/Servo.o
+Servo::detach()                                   ./Libraries/Servo/Servo.o
+Servo::read()                                     ./Libraries/Servo/Servo.o
+Servo::readMicroseconds()                         ./Libraries/Servo/Servo.o
+Servo::write(int)                                 ./Libraries/Servo/Servo.o
+Servo::writeMicroseconds(int)                     ./Libraries/Servo/Servo.o
+ServoCount                                        ./Libraries/Servo/Servo.o
+SoftwareSerial::SoftwareSerial(unsigned char, unsigned char, bool) ./Libraries/SoftwareSerial/SoftwareSerial.o
+SoftwareSerial::SoftwareSerial(unsigned char, unsigned char, bool) ./Libraries/SoftwareSerial/SoftwareSerial.o
+SoftwareSerial::_receive_buffer                   ./Libraries/SoftwareSerial/SoftwareSerial.o
+SoftwareSerial::_receive_buffer_head              ./Libraries/SoftwareSerial/SoftwareSerial.o
+SoftwareSerial::_receive_buffer_tail              ./Libraries/SoftwareSerial/SoftwareSerial.o
+SoftwareSerial::active_object                     ./Libraries/SoftwareSerial/SoftwareSerial.o
+SoftwareSerial::available()                       ./Libraries/SoftwareSerial/SoftwareSerial.o
+SoftwareSerial::begin(long)                       ./Libraries/SoftwareSerial/SoftwareSerial.o
+SoftwareSerial::end()                             ./Libraries/SoftwareSerial/SoftwareSerial.o
+SoftwareSerial::flush()                           ./Libraries/SoftwareSerial/SoftwareSerial.o
+SoftwareSerial::listen()                          ./Libraries/SoftwareSerial/SoftwareSerial.o
+SoftwareSerial::peek()                            ./Libraries/SoftwareSerial/SoftwareSerial.o
+SoftwareSerial::read()                            ./Libraries/SoftwareSerial/SoftwareSerial.o
+SoftwareSerial::recv()                            ./Libraries/SoftwareSerial/SoftwareSerial.o
+SoftwareSerial::rx_pin_read()                     ./Libraries/SoftwareSerial/SoftwareSerial.o
+SoftwareSerial::setRX(unsigned char)              ./Libraries/SoftwareSerial/SoftwareSerial.o
+SoftwareSerial::setTX(unsigned char)              ./Libraries/SoftwareSerial/SoftwareSerial.o
+SoftwareSerial::tx_pin_write(unsigned char)       ./Libraries/SoftwareSerial/SoftwareSerial.o
+SoftwareSerial::write(unsigned char)              ./Libraries/SoftwareSerial/SoftwareSerial.o
+SoftwareSerial::~SoftwareSerial()                 ./Libraries/SoftwareSerial/SoftwareSerial.o
+SoftwareSerial::~SoftwareSerial()                 ./Libraries/SoftwareSerial/SoftwareSerial.o
+TwoWire::TwoWire()                                ./Libraries/Wire/Wire.o
+TwoWire::TwoWire()                                ./Libraries/Wire/Wire.o
+TwoWire::available()                              ./Libraries/Wire/Wire.o
+TwoWire::begin()                                  ./Libraries/Wire/Wire.o
+TwoWire::begin(int)                               ./Libraries/Wire/Wire.o
+TwoWire::begin(unsigned char)                     ./Libraries/Wire/Wire.o
+TwoWire::beginTransmission(int)                   ./Libraries/Wire/Wire.o
+TwoWire::beginTransmission(unsigned char)         ./Libraries/Wire/Wire.o
+TwoWire::endTransmission()                        ./Libraries/Wire/Wire.o
+TwoWire::endTransmission(unsigned char)           ./Libraries/Wire/Wire.o
+TwoWire::flush()                                  ./Libraries/Wire/Wire.o
+TwoWire::onReceive(void (*)(int))                 ./Libraries/Wire/Wire.o
+TwoWire::onReceiveService(unsigned char*, int)    ./Libraries/Wire/Wire.o
+TwoWire::onRequest(void (*)())                    ./Libraries/Wire/Wire.o
+TwoWire::onRequestService()                       ./Libraries/Wire/Wire.o
+TwoWire::peek()                                   ./Libraries/Wire/Wire.o
+TwoWire::read()                                   ./Libraries/Wire/Wire.o
+TwoWire::requestFrom(int, int)                    ./Libraries/Wire/Wire.o
+TwoWire::requestFrom(int, int, int)               ./Libraries/Wire/Wire.o
+TwoWire::requestFrom(unsigned char, unsigned char) ./Libraries/Wire/Wire.o
+TwoWire::requestFrom(unsigned char, unsigned char, unsigned char) ./Libraries/Wire/Wire.o
+TwoWire::rxBuffer                                 ./Libraries/Wire/Wire.o
+TwoWire::rxBufferIndex                            ./Libraries/Wire/Wire.o
+TwoWire::rxBufferLength                           ./Libraries/Wire/Wire.o
+TwoWire::transmitting                             ./Libraries/Wire/Wire.o
+TwoWire::txAddress                                ./Libraries/Wire/Wire.o
+TwoWire::txBuffer                                 ./Libraries/Wire/Wire.o
+TwoWire::txBufferIndex                            ./Libraries/Wire/Wire.o
+TwoWire::txBufferLength                           ./Libraries/Wire/Wire.o
+TwoWire::user_onReceive                           ./Libraries/Wire/Wire.o
+TwoWire::user_onRequest                           ./Libraries/Wire/Wire.o
+TwoWire::write(unsigned char const*, unsigned int) ./Libraries/Wire/Wire.o
+TwoWire::write(unsigned char)                     ./Libraries/Wire/Wire.o
+Wire                                              ./Libraries/Wire/Wire.o
+__bad_interrupt                                   c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__brkval                                          c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+__bss_end                                         c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+__bss_start                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+__ctors_end                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o)
+__ctors_start                                     c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o)
+__cxa_guard_abort                                 ./src/main.o
+__cxa_guard_acquire                               ./src/main.o
+__cxa_guard_release                               ./src/main.o
+__cxa_pure_virtual                                ./src/main.o
+                                                  ./Libraries/SoftwareSerial/SoftwareSerial.o
+                                                  ./Libraries/Wire/Wire.o
+__data_end                                        c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+__data_load_start                                 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+__data_start                                      c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+__divmodhi4                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodhi4.o)
+                                                  ./Libraries/Servo/Servo.o
+                                                  ./Libraries/SoftwareSerial/SoftwareSerial.o
+__do_clear_bss                                    c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+                                                  ./Libraries/AFMotor/AFMotor.o
+                                                  ./Libraries/Servo/Servo.o
+                                                  ./Libraries/SoftwareSerial/SoftwareSerial.o
+                                                  ./Libraries/Wire/Wire.o
+                                                  ./Libraries/Wire/utility/twi.o
+                                                  ./src/main.o
+__do_copy_data                                    c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+                                                  ./Libraries/AFMotor/AFMotor.o
+                                                  ./Libraries/Servo/Servo.o
+                                                  ./Libraries/SoftwareSerial/SoftwareSerial.o
+                                                  ./Libraries/Wire/Wire.o
+                                                  ./Libraries/Wire/utility/twi.o
+                                                  ./src/main.o
+__do_global_ctors                                 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o)
+                                                  ./Libraries/AFMotor/AFMotor.o
+                                                  ./Libraries/Wire/Wire.o
+__flp                                             c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+__heap_end                                        c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+__heap_start                                      c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+__init                                            c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__malloc_heap_end                                 c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+__malloc_heap_start                               c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+__malloc_margin                                   c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+__mulsi3                                          c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mulsi3.o)
+                                                  ./Libraries/AFMotor/AFMotor.o
+__stack                                           c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__tablejump2__                                    c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_tablejump.o)
+__tablejump__                                     c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_tablejump.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o)
+__udivmodhi4                                      c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodhi4.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodhi4.o)
+__udivmodqi4                                      c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodqi4.o)
+                                                  ./Libraries/Servo/Servo.o
+__udivmodsi4                                      c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodsi4.o)
+                                                  ./Libraries/AFMotor/AFMotor.o
+__vector_1                                        c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_10                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_11                                       ./Libraries/Servo/Servo.o
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_12                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_13                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_14                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_15                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_16                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_17                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_18                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_19                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_2                                        c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_20                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_21                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_22                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_23                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_24                                       ./Libraries/Wire/utility/twi.o
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_25                                       c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_3                                        ./Libraries/SoftwareSerial/SoftwareSerial.o
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_4                                        ./Libraries/SoftwareSerial/SoftwareSerial.o
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_5                                        ./Libraries/SoftwareSerial/SoftwareSerial.o
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_6                                        c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_7                                        c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_8                                        c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_9                                        c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_default                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vectors                                         c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+_div                                              c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodhi4.o)
+_exit                                             c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+analogRead                                        ./src/main.o
+delay                                             ./Libraries/AFMotor/AFMotor.o
+                                                  ./src/main.o
+digitalWrite                                      ./Libraries/AFMotor/AFMotor.o
+                                                  ./Libraries/Servo/Servo.o
+                                                  ./Libraries/SoftwareSerial/SoftwareSerial.o
+                                                  ./Libraries/Wire/utility/twi.o
+                                                  ./src/main.o
+digital_pin_to_bit_mask_PGM                       ./Libraries/SoftwareSerial/SoftwareSerial.o
+digital_pin_to_port_PGM                           ./Libraries/SoftwareSerial/SoftwareSerial.o
+exit                                              c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+free                                              c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+                                                  ./src/main.o
+init                                              ./src/main.o
+initPWM1(unsigned char)                           ./Libraries/AFMotor/AFMotor.o
+initPWM2(unsigned char)                           ./Libraries/AFMotor/AFMotor.o
+loop                                              ./src/main.o
+main                                              ./src/main.o
+                                                  c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+malloc                                            c:/users/danny/dev/arduino-1.0.5-r2/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+                                                  ./src/main.o
+map(long, long, long, long, long)                 ./Libraries/Servo/Servo.o
+microstepcurve                                    ./Libraries/AFMotor/AFMotor.o
+operator delete(void*)                            ./src/main.o
+operator delete[](void*)                          ./src/main.o
+operator new(unsigned int)                        ./src/main.o
+operator new[](unsigned int)                      ./src/main.o
+pinMode                                           ./Libraries/AFMotor/AFMotor.o
+                                                  ./Libraries/Servo/Servo.o
+                                                  ./Libraries/SoftwareSerial/SoftwareSerial.o
+                                                  ./src/main.o
+port_to_input_PGM                                 ./Libraries/SoftwareSerial/SoftwareSerial.o
+port_to_output_PGM                                ./Libraries/SoftwareSerial/SoftwareSerial.o
+setup                                             ./src/main.o
+twi_attachSlaveRxEvent(void (*)(unsigned char*, int)) ./Libraries/Wire/utility/twi.o
+                                                  ./Libraries/Wire/Wire.o
+twi_attachSlaveTxEvent(void (*)())                ./Libraries/Wire/utility/twi.o
+                                                  ./Libraries/Wire/Wire.o
+twi_init()                                        ./Libraries/Wire/utility/twi.o
+                                                  ./Libraries/Wire/Wire.o
+twi_readFrom(unsigned char, unsigned char*, unsigned char, unsigned char) ./Libraries/Wire/utility/twi.o
+                                                  ./Libraries/Wire/Wire.o
+twi_releaseBus()                                  ./Libraries/Wire/utility/twi.o
+twi_reply(unsigned char)                          ./Libraries/Wire/utility/twi.o
+twi_setAddress(unsigned char)                     ./Libraries/Wire/utility/twi.o
+                                                  ./Libraries/Wire/Wire.o
+twi_stop()                                        ./Libraries/Wire/utility/twi.o
+twi_transmit(unsigned char const*, unsigned char) ./Libraries/Wire/utility/twi.o
+                                                  ./Libraries/Wire/Wire.o
+twi_writeTo(unsigned char, unsigned char*, unsigned char, unsigned char, unsigned char) ./Libraries/Wire/utility/twi.o
+                                                  ./Libraries/Wire/Wire.o
+vtable for SoftwareSerial                         ./Libraries/SoftwareSerial/SoftwareSerial.o
+vtable for Stream                                 ./Libraries/Wire/Wire.o
+vtable for TwoWire                                ./Libraries/Wire/Wire.o
